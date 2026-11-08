@@ -1,0 +1,7 @@
+biopython>=1.81
+mdtraj>=1.9.9
+matplotlib>=3.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+# Install openmm and pdbfixer via conda-forge:
+# conda install -c conda-forge openmm pdbfixer

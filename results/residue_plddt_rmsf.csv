@@ -1,0 +1,357 @@
+residue_index,residue_name,domain_region,af3_plddt,md_rmsf_angstrom
+1,MET,N-Terminus (Disordered),22.25,55.273
+2,ASN,N-Terminus (Disordered),19.22,29.179
+3,GLY,N-Terminus (Disordered),23.22,48.048
+4,VAL,N-Terminus (Disordered),21.67,6.816
+5,SER,N-Terminus (Disordered),23.73,6.346
+6,GLU,N-Terminus (Disordered),19.53,6.619
+7,GLY,N-Terminus (Disordered),24.58,7.856
+8,THR,N-Terminus (Disordered),20.83,8.244
+9,ARG,N-Terminus (Disordered),22.93,7.672
+10,GLY,N-Terminus (Disordered),23.92,8.3
+11,CYS,N-Terminus (Disordered),22.87,8.585
+12,SER,N-Terminus (Disordered),24.75,8.438
+13,ASP,N-Terminus (Disordered),23.21,8.671
+14,ARG,N-Terminus (Disordered),22.95,7.514
+15,GLN,N-Terminus (Disordered),21.87,6.55
+16,PRO,N-Terminus (Disordered),21.95,5.967
+17,GLY,N-Terminus (Disordered),24.56,6.312
+18,VAL,N-Terminus (Disordered),21.35,7.202
+19,LEU,N-Terminus (Disordered),23.81,6.211
+20,THR,N-Terminus (Disordered),25.69,4.747
+21,ARG,N-Terminus (Disordered),27.62,5.298
+22,ASP,N-Terminus (Disordered),29.88,5.208
+23,ARG,N-Terminus (Disordered),30.65,5.939
+24,SER,N-Terminus (Disordered),29.76,6.425
+25,CYS,N-Terminus (Disordered),29.13,6.976
+26,SER,N-Terminus (Disordered),30.43,6.856
+27,ARG,N-Terminus (Disordered),27.68,6.859
+28,LYS,N-Terminus (Disordered),28.89,6.211
+29,MET,N-Terminus (Disordered),32.05,4.706
+30,ASN,N-Terminus (Disordered),34.3,4.275
+31,SER,N-Terminus (Disordered),36.4,3.823
+32,SER,N-Terminus (Disordered),42.22,2.857
+33,GLY,N-Terminus (Disordered),52.6,1.998
+34,CYS,N-Terminus (Disordered),62.43,1.235
+35,LEU,N-Terminus (Disordered),50.11,1.449
+36,SER,7TM Core / Short Loops,53.3,1.796
+37,GLU,7TM Core / Short Loops,56.68,1.645
+38,GLU,7TM Core / Short Loops,56.7,1.834
+39,VAL,7TM Core / Short Loops,67.4,1.47
+40,GLY,7TM Core / Short Loops,69.14,1.304
+41,SER,7TM Core / Short Loops,84.08,0.801
+42,LEU,7TM Core / Short Loops,86.94,0.505
+43,ARG,7TM Core / Short Loops,89.0,0.437
+44,PRO,7TM Core / Short Loops,92.3,0.5
+45,LEU,7TM Core / Short Loops,93.17,0.474
+46,THR,7TM Core / Short Loops,93.76,0.379
+47,VAL,7TM Core / Short Loops,95.13,0.385
+48,VAL,7TM Core / Short Loops,96.21,0.411
+49,ILE,7TM Core / Short Loops,96.23,0.368
+50,LEU,7TM Core / Short Loops,96.18,0.33
+51,SER,7TM Core / Short Loops,96.88,0.401
+52,ALA,7TM Core / Short Loops,96.97,0.439
+53,SER,7TM Core / Short Loops,96.4,0.418
+54,ILE,7TM Core / Short Loops,96.96,0.443
+55,VAL,7TM Core / Short Loops,97.25,0.494
+56,VAL,7TM Core / Short Loops,96.77,0.437
+57,GLY,7TM Core / Short Loops,95.91,0.423
+58,VAL,7TM Core / Short Loops,96.75,0.468
+59,LEU,7TM Core / Short Loops,95.18,0.526
+60,GLY,7TM Core / Short Loops,93.08,0.42
+61,ASN,7TM Core / Short Loops,93.52,0.347
+62,GLY,7TM Core / Short Loops,94.54,0.407
+63,LEU,7TM Core / Short Loops,90.5,0.402
+64,VAL,7TM Core / Short Loops,90.08,0.348
+65,LEU,7TM Core / Short Loops,93.17,0.369
+66,TRP,7TM Core / Short Loops,91.62,0.4
+67,MET,7TM Core / Short Loops,86.48,0.377
+68,THR,7TM Core / Short Loops,89.69,0.4
+69,VAL,7TM Core / Short Loops,92.14,0.581
+70,PHE,7TM Core / Short Loops,89.67,0.543
+71,ARG,7TM Core / Short Loops,87.54,0.492
+72,MET,7TM Core / Short Loops,85.11,0.48
+73,ALA,7TM Core / Short Loops,88.05,0.55
+74,ARG,7TM Core / Short Loops,91.6,0.641
+75,THR,7TM Core / Short Loops,90.2,0.501
+76,VAL,7TM Core / Short Loops,90.94,0.441
+77,SER,7TM Core / Short Loops,87.29,0.445
+78,THR,7TM Core / Short Loops,89.84,0.431
+79,VAL,7TM Core / Short Loops,94.07,0.433
+80,CYS,7TM Core / Short Loops,91.41,0.431
+81,PHE,7TM Core / Short Loops,90.46,0.379
+82,PHE,7TM Core / Short Loops,94.27,0.363
+83,HIS,7TM Core / Short Loops,96.28,0.372
+84,LEU,7TM Core / Short Loops,93.11,0.388
+85,ALA,7TM Core / Short Loops,94.01,0.371
+86,LEU,7TM Core / Short Loops,97.0,0.353
+87,ALA,7TM Core / Short Loops,96.77,0.36
+88,ASP,7TM Core / Short Loops,96.49,0.343
+89,PHE,7TM Core / Short Loops,97.17,0.353
+90,MET,7TM Core / Short Loops,97.01,0.407
+91,LEU,7TM Core / Short Loops,96.16,0.403
+92,SER,7TM Core / Short Loops,96.98,0.391
+93,LEU,7TM Core / Short Loops,96.76,0.456
+94,SER,7TM Core / Short Loops,95.99,0.45
+95,LEU,7TM Core / Short Loops,96.15,0.385
+96,PRO,7TM Core / Short Loops,96.79,0.427
+97,ILE,7TM Core / Short Loops,95.75,0.406
+98,ALA,7TM Core / Short Loops,93.68,0.421
+99,MET,7TM Core / Short Loops,94.08,0.391
+100,TYR,7TM Core / Short Loops,92.7,0.409
+101,TYR,7TM Core / Short Loops,90.52,0.396
+102,ILE,7TM Core / Short Loops,89.92,0.467
+103,VAL,7TM Core / Short Loops,88.96,0.527
+104,SER,7TM Core / Short Loops,86.15,0.529
+105,ARG,7TM Core / Short Loops,83.07,0.6
+106,GLN,7TM Core / Short Loops,85.66,0.552
+107,TRP,7TM Core / Short Loops,89.53,0.441
+108,LEU,7TM Core / Short Loops,88.92,0.539
+109,LEU,7TM Core / Short Loops,89.62,0.481
+110,GLY,7TM Core / Short Loops,90.15,0.543
+111,GLU,7TM Core / Short Loops,89.64,0.486
+112,TRP,7TM Core / Short Loops,93.28,0.476
+113,ALA,7TM Core / Short Loops,94.55,0.415
+114,CYS,7TM Core / Short Loops,92.8,0.367
+115,LYS,7TM Core / Short Loops,93.64,0.355
+116,LEU,7TM Core / Short Loops,94.95,0.377
+117,TYR,7TM Core / Short Loops,95.23,0.372
+118,ILE,7TM Core / Short Loops,93.73,0.362
+119,THR,7TM Core / Short Loops,95.53,0.361
+120,PHE,7TM Core / Short Loops,96.16,0.362
+121,VAL,7TM Core / Short Loops,95.04,0.354
+122,PHE,7TM Core / Short Loops,94.65,0.375
+123,LEU,7TM Core / Short Loops,96.46,0.344
+124,SER,7TM Core / Short Loops,95.6,0.349
+125,TYR,7TM Core / Short Loops,94.63,0.348
+126,PHE,7TM Core / Short Loops,95.99,0.334
+127,ALA,7TM Core / Short Loops,96.52,0.346
+128,SER,7TM Core / Short Loops,93.94,0.36
+129,ASN,7TM Core / Short Loops,92.6,0.344
+130,CYS,7TM Core / Short Loops,95.03,0.321
+131,LEU,7TM Core / Short Loops,94.03,0.32
+132,LEU,7TM Core / Short Loops,89.7,0.358
+133,VAL,7TM Core / Short Loops,93.46,0.363
+134,PHE,7TM Core / Short Loops,93.31,0.378
+135,ILE,7TM Core / Short Loops,88.93,0.375
+136,SER,7TM Core / Short Loops,89.36,0.374
+137,VAL,7TM Core / Short Loops,92.83,0.386
+138,ASP,7TM Core / Short Loops,90.21,0.383
+139,ARG,7TM Core / Short Loops,88.18,0.385
+140,CYS,7TM Core / Short Loops,90.14,0.371
+141,ILE,7TM Core / Short Loops,92.34,0.42
+142,SER,7TM Core / Short Loops,89.45,0.442
+143,VAL,7TM Core / Short Loops,88.49,0.428
+144,LEU,7TM Core / Short Loops,91.26,0.464
+145,TYR,7TM Core / Short Loops,93.22,0.506
+146,PRO,7TM Core / Short Loops,91.58,0.555
+147,VAL,7TM Core / Short Loops,93.33,0.665
+148,TRP,7TM Core / Short Loops,93.89,0.601
+149,ALA,7TM Core / Short Loops,92.1,0.619
+150,LEU,7TM Core / Short Loops,91.57,0.657
+151,ASN,7TM Core / Short Loops,93.43,0.623
+152,HIS,7TM Core / Short Loops,93.91,0.571
+153,ARG,7TM Core / Short Loops,92.44,0.545
+154,THR,7TM Core / Short Loops,94.83,0.478
+155,VAL,7TM Core / Short Loops,95.99,0.467
+156,GLN,7TM Core / Short Loops,96.1,0.578
+157,ARG,7TM Core / Short Loops,96.48,0.51
+158,ALA,7TM Core / Short Loops,96.05,0.482
+159,SER,7TM Core / Short Loops,97.14,0.472
+160,TRP,7TM Core / Short Loops,97.53,0.54
+161,LEU,7TM Core / Short Loops,96.93,0.474
+162,ALA,7TM Core / Short Loops,97.07,0.424
+163,PHE,7TM Core / Short Loops,97.67,0.492
+164,GLY,7TM Core / Short Loops,97.82,0.46
+165,VAL,7TM Core / Short Loops,97.07,0.381
+166,TRP,7TM Core / Short Loops,97.83,0.438
+167,LEU,7TM Core / Short Loops,97.42,0.461
+168,LEU,7TM Core / Short Loops,96.23,0.411
+169,ALA,7TM Core / Short Loops,95.21,0.382
+170,ALA,7TM Core / Short Loops,96.33,0.427
+171,ALA,7TM Core / Short Loops,94.54,0.44
+172,LEU,7TM Core / Short Loops,91.08,0.447
+173,CYS,7TM Core / Short Loops,90.29,0.425
+174,SER,7TM Core / Short Loops,90.09,0.509
+175,ALA,ECL2 Loop,85.77,0.523
+176,HIS,ECL2 Loop,86.92,0.47
+177,LEU,ECL2 Loop,87.87,0.46
+178,LYS,ECL2 Loop,86.05,0.482
+179,PHE,ECL2 Loop,86.41,0.462
+180,ARG,ECL2 Loop,88.54,0.404
+181,THR,ECL2 Loop,87.53,0.433
+182,THR,ECL2 Loop,88.46,0.422
+183,ARG,ECL2 Loop,86.16,0.558
+184,LYS,ECL2 Loop,83.89,0.667
+185,TRP,ECL2 Loop,79.88,0.83
+186,ASN,ECL2 Loop,78.9,0.978
+187,GLY,ECL2 Loop,81.45,1.112
+188,CYS,ECL2 Loop,83.0,0.737
+189,THR,ECL2 Loop,86.32,0.512
+190,HIS,ECL2 Loop,86.44,0.422
+191,CYS,ECL2 Loop,85.22,0.383
+192,TYR,ECL2 Loop,82.67,0.426
+193,LEU,ECL2 Loop,78.35,0.498
+194,ALA,ECL2 Loop,75.35,0.648
+195,PHE,ECL2 Loop,71.02,0.941
+196,ASN,ECL2 Loop,63.5,1.27
+197,SER,ECL2 Loop,53.23,2.165
+198,ASP,ECL2 Loop,54.51,3.065
+199,ASN,ECL2 Loop,51.73,3.67
+200,GLU,ECL2 Loop,47.67,2.624
+201,THR,ECL2 Loop,57.13,2.532
+202,ALA,ECL2 Loop,58.08,2.333
+203,GLN,ECL2 Loop,59.61,1.818
+204,ILE,ECL2 Loop,53.82,1.385
+205,TRP,ECL2 Loop,53.77,1.104
+206,ILE,7TM Core / Short Loops,65.07,1.323
+207,GLU,7TM Core / Short Loops,69.32,1.293
+208,GLY,7TM Core / Short Loops,74.34,0.939
+209,VAL,7TM Core / Short Loops,77.52,0.685
+210,VAL,7TM Core / Short Loops,81.39,0.775
+211,GLU,7TM Core / Short Loops,79.53,0.865
+212,GLY,7TM Core / Short Loops,83.36,0.664
+213,HIS,7TM Core / Short Loops,86.19,0.45
+214,ILE,7TM Core / Short Loops,88.26,0.465
+215,ILE,7TM Core / Short Loops,89.57,0.534
+216,GLY,7TM Core / Short Loops,90.0,0.543
+217,THR,7TM Core / Short Loops,91.73,0.412
+218,ILE,7TM Core / Short Loops,94.09,0.436
+219,GLY,7TM Core / Short Loops,92.13,0.482
+220,HIS,7TM Core / Short Loops,93.19,0.457
+221,PHE,7TM Core / Short Loops,95.32,0.428
+222,LEU,7TM Core / Short Loops,95.96,0.413
+223,LEU,7TM Core / Short Loops,94.42,0.415
+224,GLY,7TM Core / Short Loops,93.74,0.436
+225,PHE,7TM Core / Short Loops,94.86,0.371
+226,LEU,7TM Core / Short Loops,95.76,0.398
+227,GLY,7TM Core / Short Loops,96.37,0.418
+228,PRO,7TM Core / Short Loops,94.87,0.385
+229,LEU,7TM Core / Short Loops,92.44,0.394
+230,ALA,7TM Core / Short Loops,95.55,0.419
+231,ILE,7TM Core / Short Loops,95.32,0.382
+232,ILE,7TM Core / Short Loops,90.86,0.375
+233,GLY,7TM Core / Short Loops,91.3,0.401
+234,THR,7TM Core / Short Loops,94.99,0.399
+235,CYS,7TM Core / Short Loops,91.65,0.376
+236,ALA,7TM Core / Short Loops,88.52,0.411
+237,HIS,7TM Core / Short Loops,91.6,0.421
+238,LEU,7TM Core / Short Loops,91.97,0.405
+239,ILE,7TM Core / Short Loops,88.38,0.384
+240,ARG,7TM Core / Short Loops,86.62,0.426
+241,ALA,7TM Core / Short Loops,89.64,0.46
+242,LYS,7TM Core / Short Loops,88.77,0.453
+243,LEU,7TM Core / Short Loops,85.11,0.53
+244,LEU,7TM Core / Short Loops,85.47,0.608
+245,ARG,7TM Core / Short Loops,87.76,0.684
+246,GLU,7TM Core / Short Loops,83.56,0.801
+247,GLY,7TM Core / Short Loops,81.51,0.971
+248,TRP,7TM Core / Short Loops,75.08,1.293
+249,VAL,7TM Core / Short Loops,66.66,2.05
+250,HIS,7TM Core / Short Loops,63.95,2.005
+251,ALA,7TM Core / Short Loops,60.15,1.95
+252,ASN,7TM Core / Short Loops,60.33,2.398
+253,ARG,7TM Core / Short Loops,65.55,2.544
+254,PRO,7TM Core / Short Loops,62.62,2.192
+255,LYS,7TM Core / Short Loops,61.14,1.603
+256,ARG,7TM Core / Short Loops,70.38,1.236
+257,LEU,7TM Core / Short Loops,70.15,0.898
+258,LEU,7TM Core / Short Loops,67.72,0.616
+259,LEU,7TM Core / Short Loops,72.54,0.652
+260,VAL,7TM Core / Short Loops,80.09,0.7
+261,LEU,7TM Core / Short Loops,73.13,0.681
+262,VAL,7TM Core / Short Loops,78.31,0.512
+263,SER,7TM Core / Short Loops,84.33,0.479
+264,ALA,7TM Core / Short Loops,88.77,0.542
+265,PHE,7TM Core / Short Loops,85.15,0.5
+266,PHE,7TM Core / Short Loops,87.33,0.434
+267,ILE,7TM Core / Short Loops,94.26,0.442
+268,PHE,7TM Core / Short Loops,94.96,0.374
+269,TRP,7TM Core / Short Loops,94.58,0.378
+270,SER,7TM Core / Short Loops,95.69,0.387
+271,PRO,7TM Core / Short Loops,96.71,0.444
+272,PHE,7TM Core / Short Loops,96.09,0.372
+273,ASN,7TM Core / Short Loops,95.9,0.401
+274,VAL,7TM Core / Short Loops,96.62,0.441
+275,VAL,7TM Core / Short Loops,95.32,0.372
+276,LEU,7TM Core / Short Loops,93.92,0.393
+277,LEU,7TM Core / Short Loops,94.7,0.411
+278,VAL,7TM Core / Short Loops,93.92,0.452
+279,HIS,7TM Core / Short Loops,91.84,0.469
+280,LEU,7TM Core / Short Loops,90.04,0.429
+281,TRP,7TM Core / Short Loops,90.43,0.464
+282,ARG,7TM Core / Short Loops,88.35,0.476
+283,ARG,7TM Core / Short Loops,85.65,0.491
+284,VAL,7TM Core / Short Loops,84.82,0.537
+285,MET,7TM Core / Short Loops,85.32,0.587
+286,LEU,7TM Core / Short Loops,83.93,0.685
+287,LYS,7TM Core / Short Loops,78.97,0.715
+288,GLU,7TM Core / Short Loops,74.06,0.719
+289,ILE,7TM Core / Short Loops,72.2,0.816
+290,TYR,7TM Core / Short Loops,72.03,0.669
+291,HIS,7TM Core / Short Loops,77.42,0.715
+292,PRO,7TM Core / Short Loops,77.39,0.734
+293,ARG,7TM Core / Short Loops,83.85,0.698
+294,MET,7TM Core / Short Loops,87.19,0.578
+295,LEU,7TM Core / Short Loops,86.28,0.511
+296,LEU,7TM Core / Short Loops,87.29,0.44
+297,ILE,7TM Core / Short Loops,91.09,0.397
+298,LEU,7TM Core / Short Loops,91.33,0.397
+299,GLN,7TM Core / Short Loops,91.61,0.451
+300,ALA,7TM Core / Short Loops,93.51,0.426
+301,SER,7TM Core / Short Loops,95.06,0.374
+302,PHE,7TM Core / Short Loops,94.53,0.39
+303,ALA,7TM Core / Short Loops,95.17,0.431
+304,LEU,7TM Core / Short Loops,95.34,0.523
+305,GLY,7TM Core / Short Loops,94.34,0.574
+306,CYS,7TM Core / Short Loops,94.11,0.53
+307,VAL,7TM Core / Short Loops,94.82,0.494
+308,ASN,7TM Core / Short Loops,91.25,0.476
+309,SER,7TM Core / Short Loops,92.24,0.437
+310,SER,7TM Core / Short Loops,93.45,0.415
+311,LEU,7TM Core / Short Loops,92.17,0.45
+312,ASN,7TM Core / Short Loops,87.31,0.52
+313,PRO,7TM Core / Short Loops,88.57,0.578
+314,PHE,7TM Core / Short Loops,87.87,0.472
+315,LEU,7TM Core / Short Loops,82.13,0.501
+316,TYR,7TM Core / Short Loops,72.37,0.636
+317,VAL,7TM Core / Short Loops,67.72,0.635
+318,PHE,7TM Core / Short Loops,62.75,1.027
+319,VAL,7TM Core / Short Loops,64.11,1.188
+320,GLY,7TM Core / Short Loops,61.15,0.978
+321,ARG,7TM Core / Short Loops,66.46,1.034
+322,ASP,7TM Core / Short Loops,64.65,1.048
+323,PHE,7TM Core / Short Loops,63.66,0.883
+324,GLN,7TM Core / Short Loops,68.04,0.988
+325,GLU,7TM Core / Short Loops,71.03,1.132
+326,LYS,7TM Core / Short Loops,73.83,1.103
+327,PHE,7TM Core / Short Loops,69.51,1.129
+328,PHE,7TM Core / Short Loops,71.2,1.658
+329,GLN,7TM Core / Short Loops,75.11,1.863
+330,SER,7TM Core / Short Loops,70.42,1.718
+331,LEU,7TM Core / Short Loops,59.49,1.971
+332,THR,7TM Core / Short Loops,56.92,2.617
+333,SER,7TM Core / Short Loops,61.73,2.868
+334,ALA,7TM Core / Short Loops,56.9,3.15
+335,LEU,7TM Core / Short Loops,50.12,4.102
+336,ALA,C-Terminus (Disordered),50.86,4.398
+337,ARG,C-Terminus (Disordered),53.84,4.263
+338,ALA,C-Terminus (Disordered),52.77,4.95
+339,PHE,C-Terminus (Disordered),49.98,5.755
+340,GLY,C-Terminus (Disordered),45.15,5.694
+341,GLU,C-Terminus (Disordered),40.31,5.644
+342,GLU,C-Terminus (Disordered),40.89,4.664
+343,GLU,C-Terminus (Disordered),39.74,5.041
+344,PHE,C-Terminus (Disordered),38.08,5.509
+345,LEU,C-Terminus (Disordered),40.17,5.411
+346,SER,C-Terminus (Disordered),42.36,5.076
+347,SER,C-Terminus (Disordered),42.43,5.696
+348,CYS,C-Terminus (Disordered),46.65,6.245
+349,PRO,C-Terminus (Disordered),41.07,6.449
+350,ARG,C-Terminus (Disordered),40.28,6.833
+351,GLY,C-Terminus (Disordered),45.06,7.872
+352,ASN,C-Terminus (Disordered),43.4,7.661
+353,ALA,C-Terminus (Disordered),42.37,8.631
+354,PRO,C-Terminus (Disordered),40.74,10.339
+355,ARG,C-Terminus (Disordered),36.67,11.968
+356,GLU,C-Terminus (Disordered),30.65,13.564
